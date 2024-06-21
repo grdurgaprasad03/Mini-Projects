@@ -1,0 +1,101 @@
+id,firstName,lastName,age,btc,relationship,gender,income
+1,Bucky,Roberts,33,0.7260,single,male,35770.60
+2,Lisa,Gallagher,34,1.6779,single,female,101201.34
+3,Emma,Williams,54,5.1419,not single,female,460603.25
+4,Tony,Masters,52,3.7700,not single,male,252005.46
+5,Mike,Smith,59,1.0389,single,male,109794.29
+6,Sally,Raphael,18,3.0099,not single,female,85281.61
+7,John,Wisdom,34,4.5451,single,male,200021.80
+8,Nu,Wilson,38,2.2061,single,male,102503.25
+9,Antonette,Moore,38,5.8099,single,female,414160.86
+10,Tamekia,Taylor,37,2.1359,not single,female,116327.21
+11,Hubert,Anderson,59,5.7938,not single,male,582884.82
+12,Clare,Thomas,50,1.1851,single,male,71942.20
+13,Yevette,Jackson,18,1.7002,not single,female,59818.60
+14,Pierre,White,33,5.3577,single,male,262685.25
+15,Clarinda,Harris,23,1.5467,single,male,56862.34
+16,Robbie,Martin,24,5.1011,single,female,125653.34
+17,Diedra,Thompson,67,3.8105,not single,female,401833.15
+18,Solange,Garcia,49,5.5329,not single,male,326507.91
+19,Laverna,Martinez,35,0.1719,single,male,8904.74
+20,Marquita,Robinson,63,2.9468,not single,female,224930.43
+21,Dixie,Clark,9,4.1287,single,male,70624.87
+22,Treena,Rodriguez,44,5.9274,single,male,355275.76
+23,Otha,Lewis,11,4.6544,single,female,74569.05
+24,Hershel,Lee,19,4.0075,not single,female,106868.98
+25,Tiesha,Walker,54,4.1369,not single,male,324237.35
+26,Ula,Hall,68,0.5682,single,male,51687.74
+27,Claris,Allen,28,5.5471,not single,female,300123.62
+28,Shaunte,Young,24,0.5958,single,male,22462.92
+29,Boyce,Hernandez,28,4.1589,single,male,163597.77
+30,Lorenza,King,47,5.9904,single,female,430811.62
+31,Kaci,Wright,15,5.1736,not single,female,150092.54
+32,Jeremiah,Lopez,63,5.3472,not single,male,623971.02
+33,Enid,Hill,36,1.2812,single,male,86567.25
+34,Wiley,Scott,29,1.5234,not single,female,44647.41
+35,Joey,Green,16,1.5377,single,male,43210.11
+36,Evalyn,Adams,23,3.8451,single,male,165293.46
+37,Oliver,Baker,59,3.9289,single,female,334574.69
+38,Aretha,Gonzalez,61,0.5097,not single,female,37175.54
+39,Valarie,Nelson,47,0.6487,not single,male,52413.00
+40,Rocco,Carter,44,4.5954,single,male,219887.42
+41,Jenise,Mitchell,56,4.4286,not single,female,435282.95
+42,Marcel,Perez,61,1.1025,single,male,103595.03
+43,Doretha,Roberts,14,0.2178,single,male,3344.94
+44,Buddy,Turner,32,5.6199,single,female,339102.00
+45,Ruben,Phillips,18,5.1410,not single,female,120631.86
+46,Sacha,Campbell,27,4.5353,not single,male,173245.29
+47,Song,Parker,34,2.9338,single,male,169094.32
+48,Ronni,Evans,47,3.1889,not single,female,220199.76
+49,Wanda,Edwards,19,1.9938,single,male,48091.29
+50,Sharla,Collins,51,4.0090,single,male,284455.93
+51,Louann,Stewart,55,5.7749,single,female,356521.96
+52,Shira,Sanchez,21,0.4606,not single,female,16221.88
+53,Francina,Morris,22,0.4988,not single,male,21016.26
+54,Joline,Rogers,9,4.5894,single,male,47368.66
+55,Olga,Reed,52,2.0632,not single,female,165945.65
+56,Mammie,Cook,22,1.0490,single,male,23487.41
+57,Jovan,Morgan,21,5.5832,single,male,136567.24
+58,Cristopher,Bell,21,2.7624,single,female,61549.61
+59,Boyd,Murphy,16,2.2195,not single,female,56873.74
+60,Veronika,Bailey,45,0.7887,not single,male,70443.68
+61,Rheba,Rivera,27,2.8194,single,male,141365.98
+62,Elfriede,Cooper,27,1.5385,not single,female,57301.98
+63,Hee,Richardson,27,4.4244,single,male,138482.50
+64,Lucas,Cox,61,4.2161,single,male,467870.27
+65,Josefine,Howard,47,4.8826,single,female,379870.67
+66,Eugenia,Ward,18,0.2527,not single,female,6837.11
+67,Ivey,Torres,24,4.6448,not single,male,210078.57
+68,Shelton,Peterson,64,3.5369,single,male,316670.77
+69,Rosalinda,Gray,63,4.3215,not single,female,475946.36
+70,Ciara,Ramirez,32,4.4546,single,male,222939.68
+71,Samira,James,58,3.7301,single,male,398190.15
+72,Christiana,Watson,51,2.0992,single,female,200148.43
+73,Shantae,Brooks,61,0.9708,not single,female,76283.77
+74,Sari,Kelly,59,1.5324,not single,male,176117.38
+75,Bree,Sanders,68,0.5376,single,male,70571.02
+76,Magdalena,Price,46,5.6417,not single,female,508350.67
+77,Soon,Bennett,60,4.5900,single,male,544969.09
+78,Laureen,Wood,59,0.9649,single,male,105199.89
+79,Lavonna,Barnes,62,5.2923,single,female,534255.37
+80,Evelynn,Ross,40,2.8370,not single,female,188379.45
+81,Claudie,Henderson,9,2.5593,not single,male,30956.49
+82,Toi,Coleman,39,1.3482,single,male,64733.95
+83,Nidia,Jenkins,61,2.6396,not single,female,205374.70
+84,Mai,Perry,36,4.8991,single,male,195988.65
+85,Gabriel,Powell,11,3.7150,single,male,81325.14
+86,Dorthy,Long,10,1.5887,single,female,29309.40
+87,Van,Patterson,35,0.0964,not single,female,4067.14
+88,Dexter,Hughes,41,5.2741,not single,male,227815.48
+89,Perla,Flores,23,5.6569,single,male,209334.94
+90,Temple,Washington,38,1.9095,not single,female,72672.43
+91,Chau,Butler,18,1.8596,single,male,36396.67
+92,Adell,Simmons,55,2.6848,single,male,177900.68
+93,Valentina,Foster,10,4.1081,single,female,63972.03
+94,Valentine,Gonzales,33,1.5633,not single,female,99536.36
+95,Janice,Bryant,32,5.1765,not single,male,197283.86
+96,Teddy,Alexander,45,4.0485,single,male,228342.02
+97,Valentina,Russell,57,3.1614,not single,female,287809.03
+98,Valentine,Griffin,52,4.3964,single,male,322901.41
+99,Janice,Diaz,18,3.7369,single,male,114313.71
+100,Teddy,Hayes,68,1.0361,single,female,137063.68
